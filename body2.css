@@ -1,0 +1,364 @@
+#body2{
+    background-color: white;
+    height: 2000px;
+    ;
+    
+    
+}
+#just{
+    border: 5px solid;
+    border-width: 27px;
+    border-color: #546591;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+#tel{
+    font-weight: bolder;
+    color: white;
+    position: absolute;
+    top: 5px;
+    left: 650px;
+}
+#emal{
+    font-weight: bolder;
+    color: white;
+    position: absolute;
+    top: 5px;
+    left: 960px;
+}
+#opn{
+    font-weight: bolder;
+    color: white;
+    position: absolute;
+    top: 5px;
+    left: 1200px;
+}
+#photo{
+    position: absolute;
+    top: 74px;
+    left: 25px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#home1{
+    
+    color: white;
+    font-weight: bolder;
+    font-size: 22px;
+    position: absolute;
+    top: 120px;
+    left: 500px;
+}
+#driver1{
+    color: white;
+    font-weight: bolder;
+    font-size: 22px;
+    position: absolute;
+    top: 120px;
+    left: 650px;
+}
+#fleet1{
+    color: white;
+    font-weight: bolder;
+    font-size: 22px;
+    position: absolute;
+    top: 120px;
+    left: 820px;
+}
+#safety1{
+    color: white;
+    font-size: 22px;
+    font-weight: bolder;
+    position: absolute;
+    top: 120px;
+    left: 970px;
+}
+#contacts1{
+    color: white;
+    font-size: 22px;
+    font-weight: bolder;
+    position: absolute;
+    top: 120px;
+    left: 1130px;
+}
+#on{
+    height: 350px;
+    width: 1490px;
+    margin-top: -16px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+#hell{
+    color: white;
+    font-weight: bolder;
+    font-size: 35px;
+    position: absolute;
+    top: 250px;
+    left: 70px;
+}
+#lane{
+    height: 1px;
+    color: white;
+    background-color: white;
+    position: relative;
+    bottom: 60px;
+}
+#photo1{
+    width: 1000px;
+    height: 220px;
+    margin-left: -10px;
+    position: absolute;
+    bottom: 20px;
+}
+#text{
+    position: relative;
+    top: 18px;
+    font-size: 20px;
+    margin-left: 15px;
+}
+#book1{
+    border: 5px solid;
+    width: 220px;
+    position: relative;
+    left: 1150px;
+    font-family: "consolas";
+    font-weight: bolder;    
+    border-color: lightskyblue;
+}
+#chime{
+    height: 3px;
+    width: 150px;
+    color: skyblue;
+    background-color: skyblue;
+    position: relative;
+    top: 45px;
+    right: 620px;    
+}
+#ter{
+    position: relative;
+    top: 60px;
+    left: 45px;
+}
+#essay{
+    border: 3px solid;
+    height: 150px;
+    width: 900px;
+    font-size: 25px;
+    position: relative;
+    top: 65px;
+    left: 35px;
+    padding: 12px;
+    border-color: white;
+}
+#use{
+    border: 3px solid;
+    height: 150px;
+    width: 900px;
+    font-size: 25px;
+    position: relative;
+    top: 58px;
+    left: 35px;
+    padding: 12px;
+    border-color: white;
+    
+}
+#last{
+    border: 3px solid;
+    height: 150px;
+    width: 900px;
+    font-size: 25px;
+    position: relative;
+    top: 40px;
+    left: 35px;
+    padding: 12px;
+    border-color: white;
+}
+#form{
+    border: 5px solid;
+    height: 25px;
+    width: 180px;
+    text-align: center;
+    padding: 15px;
+    border-color: skyblue;
+    border-radius: 25px;
+    font-weight: bolder;
+    font-family: "consolas";
+    position: relative;
+    left:1160px;
+    bottom: 600px;    
+}
+#ask{
+    border: 5px solid;
+    height: 25px;
+    width: 200px;
+    text-align: center;
+    padding: 15px;
+    border-color: skyblue;
+    border-radius: 25px;
+    font-weight: bolder;
+    font-family: "consolas";
+    position: relative;
+    left: 1160px;
+    bottom: 550px;
+}
+.fa-phone{
+    position: relative;
+    left: 1174px;
+    bottom: 610px;
+}
+#calling{
+    position: relative;
+    bottom: 1603px;
+    left: 580px;
+
+}
+.fa-download{
+    position: relative;
+    left: 1140px;
+    bottom: 740px;
+}
+.fa-envelope{
+    position: relative;
+    bottom: 1600px;
+    left: 860px;
+}
+.fa-calendar{
+    position: relative;
+    bottom: 1600px;
+    left: 1077px;
+}
+#lane2{
+    height: 3px;
+    width: 150px;
+    color: skyblue;
+    background-color: skyblue;
+    position: relative;
+    left: 500px;
+    bottom: 500px;
+}
+#galery{
+    font-size: 20px;
+    font-weight: bolder;
+    color: skyblue;
+    position: relative;
+    left: 1150px;
+    bottom: 430px;
+}
+#poor{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    left: 1155px;
+    bottom: 420px;
+}
+#kobe{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    left: 1180px;
+    bottom: 420px;
+}
+#steve{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    bottom: 350px;
+    left: 1050px;
+}
+#girl{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    bottom: 350px;
+    left: 1070px;
+}
+#wow{
+    border: 3px solid;
+    height: 200px;
+    background-color: #546591;
+    border-color: #546591;
+    margin-bottom: -50px;
+    margin-left: -10px;
+    margin-right: -10px;
+    position: relative;
+    bottom: 0px;
+}
+#reserve{
+    position: relative;
+    bottom: 30px;
+    font-weight: bolder;
+    color: white;
+    
+}
+#fuck{
+    height: 1px;
+    color: white;
+    background-color: white;
+    margin-left: -10px;
+    margin-left: -10px;
+    position: relative;
+    bottom: 80px;
+}
+.fa-facebook{
+    position: relative;
+    bottom: 75px;
+    left: 1200px;
+    
+}
+.fa-instagram{
+    position: relative;
+    bottom: 75px;
+    left: 1230px;
+}
+.fa-twitter{
+    position: relative;
+    bottom: 75px;
+    left: 1260px;
+}
+#ehh{
+    height: 45px;
+    width: 45px;
+    position: relative;
+    bottom: 210px;
+    right: 10px;
+}
+#day{
+    font-weight: bolder;
+    position: relative;
+    bottom: 220px;
+    font-size: 25px;
+    color: white;
+}
+#wow2{
+    border: 3px solid;
+    height: 150px;
+    color: #5fcaf5;
+    background-color: #5fcaf5;
+    position: relative;
+    bottom: 490px;
+    margin-left: -10px;
+    margin-right: -18px;
+}
+#work{
+    font-weight: bolder;
+    position: relative;
+    bottom: 590px;
+    color: white;
+    left: 400px;
+}
+#form2{
+    border: 5px solid;
+    height: 25px;
+    width: 180px;
+    text-align: center;
+    padding: 15px;
+    border-color: white;
+    border-radius: 25px;
+    font-weight: bolder;
+    font-family: "consolas";
+    position: relative;
+    color: white;
+    bottom: 670px;
+    left: 1000px;
+}
